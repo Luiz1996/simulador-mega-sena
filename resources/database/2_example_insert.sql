@@ -1,0 +1,2 @@
+INSERT INTO `mega-sena`.`aposta_jogo` (`num_concurso`, `num1`, `num2`, `num3`, `num4`, `num5`, `num6`, `numeros_jogados`) VALUES 
+                                      ('1', 'S', 'S', 'S', 'S', 'S', 'S', '6');
